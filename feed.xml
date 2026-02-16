@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Tech Insights</title>
+    <description>Análisis y opiniones sobre inteligencia artificial y tecnología</description>
+    <link>https://aikit.es</link>
+    <language>es</language>
+    <copyright>© 2026 Miguel Martín - AIKit</copyright>
+    <itunes:author>Miguel Martín - AIKit</itunes:author>
+    <itunes:summary>Análisis y opiniones sobre inteligencia artificial y tecnología</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Miguel Martín - AIKit</itunes:name>
+      <itunes:email>miguel.martin@aikit.es</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <lastBuildDate>Sun, 16 Feb 2026 14:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aikit-automations.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- El primer episodio se agregará automáticamente cuando se complete la subida -->
+  </channel>
+</rss>
